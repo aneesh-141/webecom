@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,oCACI,KACI,wBACJ,CACF","file":"main.3395e232.chunk.css","sourcesContent":["@media screen and (max-width: 400px) {\r\n    #mov{\r\n        font-size: 45px!important;\r\n    }\r\n  }"]}
