@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webecom/static/css/main.3395e232.chunk.css",
+    "main.css": "/webecom/static/css/main.3c204e48.chunk.css",
     "main.js": "/webecom/static/js/main.3afe30fb.chunk.js",
     "main.js.map": "/webecom/static/js/main.3afe30fb.chunk.js.map",
     "runtime-main.js": "/webecom/static/js/runtime-main.605851eb.js",
@@ -9,10 +9,10 @@
     "static/js/2.ab15bc94.chunk.js": "/webecom/static/js/2.ab15bc94.chunk.js",
     "static/js/2.ab15bc94.chunk.js.map": "/webecom/static/js/2.ab15bc94.chunk.js.map",
     "index.html": "/webecom/index.html",
-    "precache-manifest.7fad0dfc59ce33a8b4ba81587aef050e.js": "/webecom/precache-manifest.7fad0dfc59ce33a8b4ba81587aef050e.js",
+    "precache-manifest.56296bf7155c9f5674c84e923b8749ac.js": "/webecom/precache-manifest.56296bf7155c9f5674c84e923b8749ac.js",
     "service-worker.js": "/webecom/service-worker.js",
     "static/css/2.21e37ab5.chunk.css.map": "/webecom/static/css/2.21e37ab5.chunk.css.map",
-    "static/css/main.3395e232.chunk.css.map": "/webecom/static/css/main.3395e232.chunk.css.map",
+    "static/css/main.3c204e48.chunk.css.map": "/webecom/static/css/main.3c204e48.chunk.css.map",
     "static/js/2.ab15bc94.chunk.js.LICENSE.txt": "/webecom/static/js/2.ab15bc94.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/webecom/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/webecom/static/media/fa-solid-900.8e1ed89b.woff2"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.605851eb.js",
     "static/css/2.21e37ab5.chunk.css",
     "static/js/2.ab15bc94.chunk.js",
-    "static/css/main.3395e232.chunk.css",
+    "static/css/main.3c204e48.chunk.css",
     "static/js/main.3afe30fb.chunk.js"
   ]
 }

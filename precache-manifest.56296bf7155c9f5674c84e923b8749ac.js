@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d3a15f5bb3c363638b24dd1c142d1a7",
+    "revision": "223acf9e05078324148c9918b85b8082",
     "url": "/webecom/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webecom/static/css/2.21e37ab5.chunk.css"
   },
   {
-    "revision": "8927b20cdb4a80c6aa03",
-    "url": "/webecom/static/css/main.3395e232.chunk.css"
+    "revision": "b81e36c4959626f5896c",
+    "url": "/webecom/static/css/main.3c204e48.chunk.css"
   },
   {
     "revision": "813917bad9edd40a6b7c",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webecom/static/js/2.ab15bc94.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8927b20cdb4a80c6aa03",
+    "revision": "b81e36c4959626f5896c",
     "url": "/webecom/static/js/main.3afe30fb.chunk.js"
   },
   {
